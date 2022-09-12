@@ -17,6 +17,6 @@ for (nums1 = 'a'; nums1 <= 'f'; nums1++)
 {
 putchar(nums1);
 }
-putchar(nums1);
+putchar('\n');
 return (0);
 }
