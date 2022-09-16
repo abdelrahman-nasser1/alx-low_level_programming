@@ -1,9 +1,7 @@
 ## Project 0x03. C - Debugging
 
 
-
 ### General
-
 
 
 -   Allowed editors: `vi`, `vim`, `emacs`
@@ -19,9 +17,7 @@
 -   A README.md file, at the root of the folder of this project (i.e. `0x03-debugging`), describing what this project is about
 
 
-
 ### Tasks
-
 
 
 Task 0 - multiple mains
