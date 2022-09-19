@@ -9,7 +9,7 @@
  *
  * * Return : Void, Basically nothing is returned
  *
- */
+ * */
 
 void reset_to_98(int *n)
 {
