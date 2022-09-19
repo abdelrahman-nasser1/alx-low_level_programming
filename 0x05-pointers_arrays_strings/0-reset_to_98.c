@@ -1,4 +1,4 @@
-#include "main.h"
+#include "main.hi"
 #include <stdio.h>
 
 /**
@@ -9,7 +9,7 @@
  *
  * * Return : Void, Basically nothing is returned
  *
- * */
+ */
 
 void reset_to_98(int *n)
 {
